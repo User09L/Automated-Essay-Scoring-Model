@@ -20,3 +20,8 @@ The Phases are:
 
 and after is the results
 the metrics used to judge the model are the Mean Square Error, Variance Score and the Cophen Kappa Score
+
+The models tested are
+1. Linear Regression Model
+2. Logistic Model
+3. Decision Tree Classifier

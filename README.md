@@ -1,5 +1,5 @@
 "# Automated-Essay-Scoring-Model" 
-
+Authors: Legayada, Fritz ; Gorope, Patrick ; Dauberman Jarod
 
 
 # Automated Essay Scoring
